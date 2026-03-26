@@ -3,3 +3,6 @@ This project consist of 5 tasks altogether. It included creating an infographic 
 
 ## Task 1: Digital Literacy Infographic
 A one-page infographic was created using Canva to explain the concept of digital literacy, its importance, safe internet practices, and maintaining a professional online presence. The design uses clear visuals and concise points to ensure easy understanding.
+
+## Task 2: Student Digital Portfolio 
+I created and updated a professional profile on GitHub, LinkedIn, and Kaggle to establish a digital presence. My GitHub includes a profile README and project showcases, LinkedIn highlights educational background, while Kaggle is set up for exploring data science and datasets.
