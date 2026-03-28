@@ -6,3 +6,9 @@ A one-page infographic was created using Canva to explain the concept of digital
 
 ## Task 2: Student Digital Portfolio 
 I created and updated a professional profile on GitHub, LinkedIn, and Kaggle to establish a digital presence. My GitHub includes a profile README and project showcases, LinkedIn highlights educational background, while Kaggle is set up for exploring data science and datasets.
+
+## Task 3: Coding & Collaboration Platforms
+
+Attempted a beginner-level coding challenge on HackerRank to get a feel for coding problem-solving and submission of code. Created a Google Form titled "Digital Literacy Awareness Quiz" with five questions and linked it to a Google Sheet for collecting responses.
+Google form link: https://forms.gle/6pNdg42dTH1Z1oub9
+
