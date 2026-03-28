@@ -12,3 +12,6 @@ I created and updated a professional profile on GitHub, LinkedIn, and Kaggle to 
 Attempted a beginner-level coding challenge on HackerRank to get a feel for coding problem-solving and submission of code. Created a Google Form titled "Digital Literacy Awareness Quiz" with five questions and linked it to a Google Sheet for collecting responses.
 Google form link: https://forms.gle/6pNdg42dTH1Z1oub9
 
+## Task 4: Email Etiquette
+
+Drafted two professional emails: one for requesting an assignment extension and another for applying for an internship. Also created a social media do’s and don’ts checklist to demonstrate responsible online behaviour and digital communication practices.
